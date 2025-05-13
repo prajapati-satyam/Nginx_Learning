@@ -23,6 +23,9 @@ Nginx can handle **10,000+ concurrent connections** with minimal resource usage,
 
 ---
 
+![Arcitecture](./Node&Nginx_Architecture.jpeg)
+
+
 ---
 ###### you can run nginx in the docker. 
 
