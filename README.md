@@ -77,5 +77,4 @@ Go with **Nginx** for tradition and power.
 Go with **Caddy** for comfort and modern vibes.
 
 > 🌟 Happy Hosting! 🌐
-> **Learning Nginx:** A powerful, high-performance web server and reverse proxy used to serve static content, handle load balancing, and secure web applications.
 
