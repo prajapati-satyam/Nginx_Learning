@@ -1,6 +1,6 @@
 ﻿# 🚀 NGINX 🚀
 
-> **Pronunciation:** "Engine-X" 
+> **Pronunciation:** "Engine-X"
 
 ## 🔍 What is Nginx?
 
@@ -27,7 +27,7 @@ Nginx can handle **10,000+ concurrent connections** with minimal resource usage,
 
 
 ---
-###### you can run nginx in the docker. 
+###### you can run nginx in the docker.
 
 # 🚀 Nginx vs Caddy: A Delightful Comparison
 
@@ -72,9 +72,9 @@ Choosing a web server? 🤔 Let's break down the **battle between Nginx and Cadd
 
 ## 💬 Final Words
 
-Both are excellent — it's just a matter of **what kind of journey** you're on.  
-Go with **Nginx** for tradition and power.  
+Both are excellent — it's just a matter of **what kind of journey** you're on.
+Go with **Nginx** for tradition and power.
 Go with **Caddy** for comfort and modern vibes.
 
 > 🌟 Happy Hosting! 🌐
-
+>    Happy Learning! ✅
