@@ -77,4 +77,4 @@ Go with **Nginx** for tradition and power.
 Go with **Caddy** for comfort and modern vibes.
 
 > 🌟 Happy Hosting! 🌐
->    Happy Learning! ✅
+>    *Happy Learning!*
